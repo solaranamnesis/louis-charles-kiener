@@ -6,23 +6,23 @@ Public Domain Works of Louis Charles Kiener (1799–1881).
 
 ### Tome 1.
 
-French - Plain Text
-French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design
-English - Plain Text
-English - PDF
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design  
+English - Plain Text  
+English - PDF  
 
 ### Tome 2.
 
-French - Plain Text
-French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design
-English - Plain Text
-English - PDF
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design  
+English - Plain Text  
+English - PDF  
 
 ...
 
 ### Tome 12.
 
-French - Plain Text
-French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design
-English - Plain Text
-English - PDF
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom Design  
+English - Plain Text  
+English - PDF  
